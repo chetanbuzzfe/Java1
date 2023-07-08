@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author cheta
- *
- */
-module JavaExample {
-}
